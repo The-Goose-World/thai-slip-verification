@@ -1,0 +1,25 @@
+{
+  "name": "thai-slip-verification",
+  "version": "1.0.0",
+  "description": "Thai QR slip verification module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-Goose-World/thai-slip-verification.git"
+  },
+  "keywords": [
+    "Thai",
+    "QR",
+    "slip",
+    "verification"
+  ],
+  "author": "Goose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/The-Goose-World/thai-slip-verification/issues"
+  },
+  "homepage": "https://github.com/The-Goose-World/thai-slip-verification#readme"
+}
